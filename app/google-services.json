@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "222768282148",
+    "firebase_url": "https://fir-real-database-lintang-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-real-database-lintang",
+    "storage_bucket": "fir-real-database-lintang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222768282148:android:94ac549eed479bce28f6b1",
+        "android_client_info": {
+          "package_name": "com.example.firebaserealtimedatabaselintang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222768282148-tju8qlt158qn2bddns0jogsucueujos8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4sCLn7RAbZw8cKDQX51e-qwO-OyBfl1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222768282148-tju8qlt158qn2bddns0jogsucueujos8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
